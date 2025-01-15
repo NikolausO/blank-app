@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+# Title and introduction
+st.title("SIT Method GPT")
+st.write("Welcome! This app allows you to explore the Systematic Inventive Thinking (SIT) method.")
+streamlit run app.py
